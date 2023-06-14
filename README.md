@@ -1,4 +1,5 @@
 # vision
+
 Tis was our hackathon project where we have to calculate distance using monocular depth estimation technique , we used depth estimation maps for getting the depth of the various features in a 2D image , using MiDas Machine Learning Model and some custom mathematics to calculate rough distances of the features from camera module.
 First, we will use a camera to capture video of the scene we're interested in. Then, we'll use a computer program that can estimate the distance of objects in the scene from the camera, even though we're only using one camera. This is called monocular depth estimation.
 
@@ -45,3 +46,6 @@ Training data: Kitty was trained on the KITTI dataset, which contains real-world
 Output format: The output format of the two models is different. Kitty predicts a single depth map, while Midas produces two maps: a dense depth map and a sparse depth map with fewer details but higher accuracy.
 
 Performance: Both models have achieved state-of-the-art performance on benchmark datasets such as NYU Depth V2 and KITTI, but Midas has been shown to outperform Kitty on some tasks, such as depth estimation for objects at close range.
+
+***Disclaimer The project has not been completed yet as we have to optimize a lot in order to calculate the distacnces accurately .
+If anyone wants to contribute feel free to FORK the project .***
