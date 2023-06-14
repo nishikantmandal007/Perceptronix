@@ -12,7 +12,12 @@ Whenever a car would approach into the circular range of a bigger loaded truck a
 In automatic braking system of a car, the AI of the car can detect the relative distance between itself i.e. the car, and the obstacle in front of or behind it beforehand using this problem solution.
 
 The MIDAS (Mixture of Dense Networks for Single Image Depth Estimation) model for depth estimation is based on a deep convolutional neural network architecture. Specifically, it uses a multi-scale encoder-decoder architecture with skip connections, which is trained to predict the depth map of a given input image. The model is trained using a combination of supervised and unsupervised learning techniques, where the supervised part involves minimizing the mean squared error between the predicted depth map and the ground truth depth map, and the unsupervised part involves enforcing consistency between the predicted depth map and the input image. Overall, the MIDAS model is a state-of-the-art approach for single image depth estimation that has achieved impressive results on a wide range of benchmark datasets.
+
+
 ![unnamed](https://github.com/nishikantmandal007/vision/assets/113323074/5f891d84-e305-49c3-86e2-573b7774bf1f)
+
+
+
 ![unnamed](https://github.com/nishikantmandal007/vision/assets/113323074/1cb378ac-92dc-4ff5-9e54-7010b5f9b850)
 
 
