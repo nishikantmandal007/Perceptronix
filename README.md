@@ -1,6 +1,9 @@
-# vision
+## Perceptronix: Dimensional Depth Enigma
 
 Tis was our hackathon project where we have to calculate distance using monocular depth estimation technique , we used depth estimation maps for getting the depth of the various features in a 2D image , using MiDas Machine Learning Model and some custom mathematics to calculate rough distances of the features from camera module.
+
+![Downloader la -64928f7baca01-modified](https://github.com/nishikantmandal007/Perceptronix-Dimensional-Depth-Enigma/assets/113323074/99723870-b7f5-4e55-a926-e5507cc5fcac)
+
 First, we will use a camera to capture video of the scene we're interested in. Then, we'll use a computer program that can estimate the distance of objects in the scene from the camera, even though we're only using one camera. This is called monocular depth estimation.
 
 To figure out if an object is big or small, we'll measure its height, width, and length using the same depth estimation technique. Then we'll compare those measurements to a threshold value to determine whether it's a big or small object.
