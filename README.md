@@ -52,5 +52,5 @@ Output format: The output format of the two models is different. Kitty predicts 
 Performance: Both models have achieved state-of-the-art performance on benchmark datasets such as NYU Depth V2 and KITTI, but Midas has been shown to outperform Kitty on some tasks, such as depth estimation for objects at close range.
 
 ***Disclaimer The project has not been completed yet as we have to optimize a lot in order to calculate the distacnces accurately .
-If anyone wants to contribute feel free to FORK ![git-fork](https://github.com/nishikantmandal007/Perceptronix-Dimensional-Depth-Enigma/assets/113323074/21f910f0-b926-4201-a637-cb4b98848498)
+If anyone wants to contribute feel free to Fork ![git-fork](https://github.com/nishikantmandal007/Perceptronix-Dimensional-Depth-Enigma/assets/113323074/21f910f0-b926-4201-a637-cb4b98848498)
  the project .***
