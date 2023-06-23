@@ -52,4 +52,4 @@ Output format: The output format of the two models is different. Kitty predicts 
 Performance: Both models have achieved state-of-the-art performance on benchmark datasets such as NYU Depth V2 and KITTI, but Midas has been shown to outperform Kitty on some tasks, such as depth estimation for objects at close range.
 
 ***Disclaimer The project has not been completed yet as we have to optimize a lot in order to calculate the distacnces accurately .
-If anyone wants to contribute feel free to FORK the project .***
+If anyone wants to contribute feel free to FORK <a href="https://iconscout.com/icons/git-fork" target="_blank">Free Git Fork Icon</a> by <a href="https://iconscout.com/contributors/phosphoricons">Phosphor Icons</a> on <a href="https://iconscout.com">IconScout</a> the project .***
